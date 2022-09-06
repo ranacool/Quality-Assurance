@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.center{
+    
+    /* font-family: 'Montserrat',sans-serif; */
+    text-align: center ;
+    /* min-height: 100vh; */
+    
+}
+
+/* body{
+   
+    justify-content: center;
+    align-items: center;
+} */
+
+
+.tables{
+    font-family: 'Montserrat',sans-serif;
+    margin-top: 10%;
+    margin-left: 25%;
+    width: 50% !important;
+}
+
+td{
+    text-align: center;
+}
+
+th{
+    text-align: center;
+}
