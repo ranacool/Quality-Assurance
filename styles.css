@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
+
+
 .center{
     
     /* font-family: 'Montserrat',sans-serif; */
@@ -21,6 +23,8 @@
     margin-left: 25%;
     width: 50% !important;
 }
+
+
 
 td{
     text-align: center;
